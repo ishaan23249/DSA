@@ -1,0 +1,10 @@
+#Binary Trees (Important Questions)
+
+1. Count Leaf Nodes(done)
+2. Max Depth of Tree (done)
+3. Diameter of Tree 
+4. Balanced Tree
+5. Identical Tree of Not
+6. Sum Tree or Not. 
+
+
